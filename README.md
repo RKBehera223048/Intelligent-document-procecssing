@@ -162,30 +162,6 @@ MODEL_ID = "OpenGVLab/InternVL2_5-4B"  # Current model
 - Use CPU mode if GPU memory insufficient
 - Close other GPU-intensive applications
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-## 📧 Contact
-
-For issues, questions, or suggestions, please open an issue on GitHub.
-
-## 🙏 Acknowledgments
-
-- **InternVL2.5**: OpenGVLab for the excellent vision-language model
-- **Gradio**: For the intuitive web interface framework
-- **PyTorch**: For the deep learning framework
-- **Tesseract OCR**: For optical character recognition
-
 ---
 
 **⚡ Performance Note:** GPU acceleration recommended for faster processing. CPU mode will work but may be slower.
